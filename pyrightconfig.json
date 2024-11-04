@@ -1,0 +1,10 @@
+{
+  "venvPath": "/home/archdrdr/.cache/pypoetry/virtualenvs/", // Change this to the path of your virtual environment
+  "venv": "sitemap-parser-Io0w1Tbp-py3.12",
+  "pythonVersion": "3.12", // Adjust based on the Python version you're using
+  "include": ["annon_assist_bot", "tests"], // Directories to include in the analysis
+  // "reportMissingImports": true, // Set to true to report missing imports
+  "typeCheckingMode": "strict" // Use "strict" for more rigorous type checking, or "basic"
+  // "reportUnusedVariable": "warning", // Warn about unused variables
+  // "reportMissingTypeStubs": "warning" // Warn about missing type stubs for third-party libraries
+}
